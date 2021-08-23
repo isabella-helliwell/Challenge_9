@@ -81,4 +81,9 @@ Output 10. ![image](https://user-images.githubusercontent.com/85843030/130482159
         Comparing the min/max and average temperature for June and December,one can draw the conclusion that June is the 
         hotter month of the two.
         However, we can also see from the histograms that there are more data present for the June (1700 counts) than December (1517 counts)
+        Looking at the precipitation data, (outputs 7-10), we can see that the precipitation is on average bigger for December month than June.
+        In addition, the maximum precipitation is 6.42 inches for December while it is 4.43 inches for June.
+        There are also 1405 count of data for December, while there are more data count, 1574 for June.
+        Looking at the analysis of the weather data, the temperatures and rainfall seem to suggest that the weather would be appropiate for opening up a 
+        surf and ice cream shop.
         
