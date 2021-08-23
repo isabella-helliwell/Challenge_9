@@ -30,13 +30,14 @@ Output 3. ![image](https://user-images.githubusercontent.com/85843030/130448942-
 ### 3.2 Summary Statistics Temperature- December Data
         An overview of temperatures(tobs) for December month is shown in Output 1. The analysis were carried out for years 2010 to 2017.
 
-Output 4. ![image](https://user-images.githubusercontent.com/85843030/130377773-5a35edbc-e12d-43b6-950c-7a813e7292ac.png)
+Output 4. ![image](https://user-images.githubusercontent.com/85843030/130449507-89b54188-710f-42bf-a371-79960317da80.png)
 
          The results were also plotted in a histogram, (Output 5) to see the distribution of the temperatures.
-Output 5. ![image](https://user-images.githubusercontent.com/85843030/130377972-ffb49f77-1f22-4b55-92ff-ebee1ab78539.png)
+Output 5. ![image](https://user-images.githubusercontent.com/85843030/130449706-76ea30ec-1a65-4ffd-8208-4c785a6c7215.png)
          
          The summary of the statics is shown in output 6
-Output 6. ![image](https://user-images.githubusercontent.com/85843030/130378169-e9e4693c-4602-49d0-8ddf-2fed8541e0d4.png)
+Output 6. ![image](https://user-images.githubusercontent.com/85843030/130449909-605dc17b-0054-410d-ac0c-bd8e3cb21175.png)
+
 
 ### 3.3 Summary Statistics precipitation-June Data
         An overview of the precipitation for June is shown in Output 7. The analysis were carried out for years 2010-2017
