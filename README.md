@@ -20,3 +20,8 @@ Output 1. ![image](https://user-images.githubusercontent.com/85843030/130375760-
        
  Output 2. ![image](https://user-images.githubusercontent.com/85843030/130376103-ab7a78a9-8c35-4a6a-8a4a-a9909e1478ac.png)
       
+        
+        The summary of the statics is shown in output 3
+Output 3. ![image](https://user-images.githubusercontent.com/85843030/130376270-ca304c84-b03f-4afc-ae66-093cb74d1094.png)
+
+
