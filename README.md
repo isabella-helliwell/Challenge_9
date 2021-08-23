@@ -22,6 +22,7 @@ Output 1. ![image](https://user-images.githubusercontent.com/85843030/130375760-
       
         
         The summary of the statics is shown in output 3
-Output 3. ![image](https://user-images.githubusercontent.com/85843030/130376270-ca304c84-b03f-4afc-ae66-093cb74d1094.png)
+Output 3. !![image](https://user-images.githubusercontent.com/85843030/130376338-7a6f0cf9-8320-4fba-8d79-c5b335dcf56d.png)
+
 
 
