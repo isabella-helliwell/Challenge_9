@@ -54,26 +54,31 @@ Output 6. ![image](https://user-images.githubusercontent.com/85843030/130449909-
         an overview of the precipitation for June  and December is analyzed for the same timeline as the temperature analysis carried out in section 3.
         is shown in Output 7. The analysis were carried out for years 2010-2017
  
-Output 7. ![image](https://user-images.githubusercontent.com/85843030/130450739-516a2364-4163-4d34-80cf-e486132977c6.png)
+Output 7. ![image](https://user-images.githubusercontent.com/85843030/130481856-78f8e21d-009b-498d-aa5a-5984cae8bf2c.png)
+
 
  
 
 
 
         The summary of the statics is shown in Output 8
-Output 8. ![image](https://user-images.githubusercontent.com/85843030/130450556-94dc432b-ffb4-49c1-84d2-7a22887f1d0e.png)
+Output 8. ![image](https://user-images.githubusercontent.com/85843030/130481952-2345f66f-5a07-48bf-bca9-23cffe996041.png)
+
 
 
 
 ### 5.1 Summary Statistics precipitation - December Data
        An overview of the precipitation for June is shown in Output 9. The analysis were carried out for years 2010-2017
        
-Output 9. ![image](https://user-images.githubusercontent.com/85843030/130451135-957be79a-0cdc-4345-b697-e0b0361ccbe1.png)
+Output 9. ![image](https://user-images.githubusercontent.com/85843030/130482024-6c04b3ab-5c62-4530-951d-9798113d872d.png)
+
+
 
 
         
         The summary of the statics is shown in Output 10
-Output 10. ![image](https://user-images.githubusercontent.com/85843030/130451378-1271bd8e-d2e6-46d2-88e5-1c9cf6e366d6.png)
+Output 10. ![image](https://user-images.githubusercontent.com/85843030/130482159-a98f7ab4-444d-4782-9b37-cdca72b21f61.png)
+
 
         
        
