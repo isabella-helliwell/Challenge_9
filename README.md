@@ -42,22 +42,27 @@ Output 6. ![image](https://user-images.githubusercontent.com/85843030/130449909-
 ### 3.3 Summary Statistics precipitation-June Data
         An overview of the precipitation for June is shown in Output 7. The analysis were carried out for years 2010-2017
  
-Output 7. ![image](https://user-images.githubusercontent.com/85843030/130378470-67c9799a-0998-4ec2-b3c2-ddf234d437a8.png)
+Output 7. ![image](https://user-images.githubusercontent.com/85843030/130450739-516a2364-4163-4d34-80cf-e486132977c6.png)
+
+ 
 
 
 
         The summary of the statics is shown in Output 8
-Output 8. ![image](https://user-images.githubusercontent.com/85843030/130443235-22ed0263-8477-42bb-9bfc-d056da13c536.png)
+Output 8. ![image](https://user-images.githubusercontent.com/85843030/130450556-94dc432b-ffb4-49c1-84d2-7a22887f1d0e.png)
+
 
 
 ### 3.4 Summary Statistics precipitation - December Data
        An overview of the precipitation for June is shown in Output 9. The analysis were carried out for years 2010-2017
        
-Output 9. ![image](https://user-images.githubusercontent.com/85843030/130444281-1fb24a69-94c1-4e58-b0de-d24f800219d2.png)
+Output 9. ![image](https://user-images.githubusercontent.com/85843030/130451135-957be79a-0cdc-4345-b697-e0b0361ccbe1.png)
+
 
         
         The summary of the statics is shown in Output 10
-Output 10. ![image](https://user-images.githubusercontent.com/85843030/130445268-453e731c-b5ad-477c-b616-24c460636f7f.png)
+Output 10. ![image](https://user-images.githubusercontent.com/85843030/130451378-1271bd8e-d2e6-46d2-88e5-1c9cf6e366d6.png)
+
         
        
        
