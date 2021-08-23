@@ -28,5 +28,5 @@ Output 3. ![image](https://user-images.githubusercontent.com/85843030/130376338-
 ### 3.2 Summary Statistics December Data
         An overview of temperatures(tobs) for December month is shown in Output 1. The analysis were carried out for years 2010 to 2017.
 
-Output 4. ![image](https://user-images.githubusercontent.com/85843030/130377602-2f0070e3-0082-4c33-8e84-c5350cdbc0a0.png)
+Output 4. ![image](https://user-images.githubusercontent.com/85843030/130377773-5a35edbc-e12d-43b6-950c-7a813e7292ac.png)
 
