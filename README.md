@@ -41,25 +41,18 @@ Output 5. ![image](https://user-images.githubusercontent.com/85843030/130480703-
 Output 6. ![image](https://user-images.githubusercontent.com/85843030/130449909-605dc17b-0054-410d-ac0c-bd8e3cb21175.png)
 
 
-## 4. Results
-        As shown in outputs 1-6, the analysis has been made using weather information data. 
-        Comparing the min/max and average temperature for June and December,one can draw the conclusion that June is the 
-        hotter month of the two.
-        However, we can also see from the histograms that there are more data present for the June (1700 counts) than December (1517 counts)
-        Additional statistics is shown in section 5.
-
-
-## 5. Summary Statistics precipitation
+## 4. Additiona Analysis
         Additional weather analysis can be beneficial for the visualization of weather trends. One could look into each year, or in this case
         an overview of the precipitation for June  and December is analyzed for the same timeline as the temperature analysis carried out in section 3.
-        is shown in Output 7. The analysis were carried out for years 2010-2017
+        The analysis were carried out for years 2010-2017.
+
+
+### 4.1 Summary Statistics precipitation-June 
+        An overview of the precipitation is shown in Output 7
  
 Output 7. ![image](https://user-images.githubusercontent.com/85843030/130481856-78f8e21d-009b-498d-aa5a-5984cae8bf2c.png)
 
-
  
-
-
 
         The summary of the statics is shown in Output 8
 Output 8. ![image](https://user-images.githubusercontent.com/85843030/130481952-2345f66f-5a07-48bf-bca9-23cffe996041.png)
@@ -67,7 +60,7 @@ Output 8. ![image](https://user-images.githubusercontent.com/85843030/130481952-
 
 
 
-### 5.1 Summary Statistics precipitation - December Data
+### 4.2 Summary Statistics precipitation - December Data
        An overview of the precipitation for June is shown in Output 9. The analysis were carried out for years 2010-2017
        
 Output 9. ![image](https://user-images.githubusercontent.com/85843030/130482024-6c04b3ab-5c62-4530-951d-9798113d872d.png)
@@ -82,6 +75,10 @@ Output 10. ![image](https://user-images.githubusercontent.com/85843030/130482159
 
         
        
+  ## 5. Results      
        
-       
-
+        As shown in outputs 1-6, the analysis has been made using weather information data. 
+        Comparing the min/max and average temperature for June and December,one can draw the conclusion that June is the 
+        hotter month of the two.
+        However, we can also see from the histograms that there are more data present for the June (1700 counts) than December (1517 counts)
+        
