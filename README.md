@@ -48,3 +48,15 @@ Output 8. ![image](https://user-images.githubusercontent.com/85843030/130443235-
 
 
 ### 3.4 Summary Statistics precipitation - December Data
+       An overview of the precipitation for June is shown in Output 9. The analysis were carried out for years 2010-2017
+       
+Output 9. ![image](https://user-images.githubusercontent.com/85843030/130444281-1fb24a69-94c1-4e58-b0de-d24f800219d2.png)
+
+        
+        The summary of the statics is shown in Output 10
+Output 10. ![image](https://user-images.githubusercontent.com/85843030/130445268-453e731c-b5ad-477c-b616-24c460636f7f.png)
+        
+       
+       
+       
+
