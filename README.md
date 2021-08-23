@@ -13,16 +13,18 @@
 ### 3.1 Summary Statistics Temperature- June Data
         An overview of temperatures(tobs) for June month is shown in Output 1. The analysis were carried out for years 2010 to 2017.
 
-Output 1. ![image](https://user-images.githubusercontent.com/85843030/130375760-ac8b49f9-380f-4c5e-80ef-dfa84a6cb968.png)
+Output 1. ![image](https://user-images.githubusercontent.com/85843030/130449104-ad77560f-3cd3-4856-8568-12961148a87f.png)
+
 
        
        The results were also plotted in a histogram, (Output 2) to see the distribution of the temperatures.
        
- Output 2. !![image](https://user-images.githubusercontent.com/85843030/130443854-9f51c4fd-182b-4dda-89ff-ac8569c778bc.png)
+ Output 2. ![image](https://user-images.githubusercontent.com/85843030/130449267-d8775685-ec22-4d49-bd38-1d752ed2a8e8.png)
+
       
         
         The summary of the statics is shown in output 3
-Output 3. ![image](https://user-images.githubusercontent.com/85843030/130376338-7a6f0cf9-8320-4fba-8d79-c5b335dcf56d.png)
+Output 3. ![image](https://user-images.githubusercontent.com/85843030/130448942-250303a9-cc5e-419f-a096-a1c0423777e8.png)
 
 
 ### 3.2 Summary Statistics Temperature- December Data
