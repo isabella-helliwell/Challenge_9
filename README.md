@@ -33,4 +33,6 @@ Output 4. ![image](https://user-images.githubusercontent.com/85843030/130377773-
          The results were also plotted in a histogram, (Output 5) to see the distribution of the temperatures.
 Output 5. ![image](https://user-images.githubusercontent.com/85843030/130377972-ffb49f77-1f22-4b55-92ff-ebee1ab78539.png)
          
-         
+         The summary of the statics is shown in output 6
+Output 6. ![image](https://user-images.githubusercontent.com/85843030/130378169-e9e4693c-4602-49d0-8ddf-2fed8541e0d4.png)
+
