@@ -40,8 +40,9 @@ Output 6. ![image](https://user-images.githubusercontent.com/85843030/130449909-
 
 
 ## 4. Results
-        As shown in outputs 1-6, the analysis has been made using 1700 counts of data. Comparing the min/max and average  temperature for June and December,
-       one can draw the conclusion that June is the hotter month of the two.
+        As shown in outputs 1-6, the analysis has been made using 1700 counts of data. Comparing the min/max and average temperature for June and December,
+        one can draw the conclusion that June is the hotter month of the two.
+        We can also see from the histograms that
 
 
 ### 3.3 Summary Statistics precipitation-June Data
