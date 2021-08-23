@@ -5,12 +5,14 @@
     Second part is to create a summary statistics for December
     
 ## 2. Resources
-Data sources: hawaii.sqlite
-Software: Python 3.7.6
-web application: Jupyter Notebook
+    Data sources: hawaii.sqlite
+    Software: Python 3.7.6
+    web application: Jupyter Notebook
     
 ## 3. Analysis
 ### 3.1 Summary Statistics June Data
-        For this analysis it was decided to get all the temperature data for June for all years present in the file.
-Output 1. 
+        An overview of temperatures(tobs) for June month is shown in Output 1. The analysis were carried out for years 2010 to 2017.
+
+Output 1. ![image](https://user-images.githubusercontent.com/85843030/130375760-ac8b49f9-380f-4c5e-80ef-dfa84a6cb968.png)
+
         
