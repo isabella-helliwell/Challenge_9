@@ -19,7 +19,8 @@ Output 1. ![image](https://user-images.githubusercontent.com/85843030/130449104-
        
        The results were also plotted in a histogram, (Output 2) to see the distribution of the temperatures.
        
- Output 2. ![image](https://user-images.githubusercontent.com/85843030/130449267-d8775685-ec22-4d49-bd38-1d752ed2a8e8.png)
+ Output 2. ![image](https://user-images.githubusercontent.com/85843030/130480608-4a976050-48cc-4e50-8118-450e5f4a1196.png)
+
 
       
         
@@ -33,7 +34,8 @@ Output 3. ![image](https://user-images.githubusercontent.com/85843030/130448942-
 Output 4. ![image](https://user-images.githubusercontent.com/85843030/130449507-89b54188-710f-42bf-a371-79960317da80.png)
 
          The results were also plotted in a histogram, (Output 5) to see the distribution of the temperatures.
-Output 5. ![image](https://user-images.githubusercontent.com/85843030/130449706-76ea30ec-1a65-4ffd-8208-4c785a6c7215.png)
+Output 5. ![image](https://user-images.githubusercontent.com/85843030/130480703-13b83e03-e655-4c4b-91e8-2b0f9ac5d3d1.png)
+
          
          The summary of the statics is shown in output 6
 Output 6. ![image](https://user-images.githubusercontent.com/85843030/130449909-605dc17b-0054-410d-ac0c-bd8e3cb21175.png)
