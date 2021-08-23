@@ -40,13 +40,17 @@ Output 6. ![image](https://user-images.githubusercontent.com/85843030/130449909-
 
 
 ## 4. Results
-        As shown in outputs 1-6, the analysis has been made using 1700 counts of data. Comparing the min/max and average temperature for June and December,
-        one can draw the conclusion that June is the hotter month of the two.
-        We can also see from the histograms that
+        As shown in outputs 1-6, the analysis has been made using weather information data. 
+        Comparing the min/max and average temperature for June and December,one can draw the conclusion that June is the 
+        hotter month of the two.
+        However, we can also see from the histograms that there are more data present for the June (1700 counts) than December (1517 counts)
+        Additional statistics is shown in section 5.
 
 
-### 3.3 Summary Statistics precipitation-June Data
-        An overview of the precipitation for June is shown in Output 7. The analysis were carried out for years 2010-2017
+## 5. Summary Statistics precipitation
+        Additional weather analysis can be beneficial for the visualization of weather trends. One could look into each year, or in this case
+        an overview of the precipitation for June  and December is analyzed for the same timeline as the temperature analysis carried out in section 3.
+        is shown in Output 7. The analysis were carried out for years 2010-2017
  
 Output 7. ![image](https://user-images.githubusercontent.com/85843030/130450739-516a2364-4163-4d34-80cf-e486132977c6.png)
 
@@ -59,7 +63,7 @@ Output 8. ![image](https://user-images.githubusercontent.com/85843030/130450556-
 
 
 
-### 3.4 Summary Statistics precipitation - December Data
+### 5.1 Summary Statistics precipitation - December Data
        An overview of the precipitation for June is shown in Output 9. The analysis were carried out for years 2010-2017
        
 Output 9. ![image](https://user-images.githubusercontent.com/85843030/130451135-957be79a-0cdc-4345-b697-e0b0361ccbe1.png)
